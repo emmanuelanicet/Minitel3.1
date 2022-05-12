@@ -20,5 +20,5 @@ Pour le reste, le projet s'occupe d'installer toutes les dépendances requises.
 
 ## Difficultés rencontrées 
 
-	gestion des erreurs os 
-	rendre son projet intuitif 
+- gestion des erreurs os 
+- rendre son projet intuitif 
